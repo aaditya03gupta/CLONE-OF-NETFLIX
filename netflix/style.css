@@ -1,0 +1,335 @@
+*{
+    margin: 0;
+}
+
+.navbar{
+    display: flex;
+    background-color: black;
+    height: 70px;
+    align-items: center;
+}
+
+.navbar1{
+    background-image: url("netflix_logo.png");
+    width: 148px;
+    height: 70px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-left: 10px;
+}
+
+.navbar2{
+    width: 200px;
+    height: 32px;
+    margin-left: 900px;
+    padding: 20px 50px 20px;
+}
+
+
+.navbar-option{
+    width: 100%;
+    height: 100%;
+    background-color: rgb(197, 132, 106);
+    font-style: arial;
+    font-weight: 700;
+}
+
+.navbar3{
+    margin-right: 10px;
+}
+
+.signin{
+    width: 78.4px;
+    height: 32px;
+    background-color: rgb(197, 132, 106);
+    padding: 5px 5px 5px;
+    font-style: arial;
+    font-weight: 700;
+}
+
+.netflix-2navbar{
+    background-image: url(netflix1.jpg);
+    height: 700px;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.net-background{
+    align-items: center;
+}
+
+.search-input{
+    width: 373px;
+    height: 56px;
+    background-color:rgba(255,255,255,0.5);
+    color: black;
+    border: 2px solid white;
+    font-size: 20px;
+}
+
+.input{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 45px;
+}
+
+.GetStarted{
+    width: 208px;
+    height: 56px;
+    color: white;
+    background-color: red;
+    font-size: 24px;
+    align-items: center;
+    margin-top: 0px;
+    margin-left: 10px;
+    margin-bottom: 15px;
+}
+.text1 h2{
+    font-size: 50px;
+}
+
+.text1 p{
+    margin-top: 300px;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.text1 a{
+    font-size: 20px;
+    margin-top: 340px;
+    font-weight: 700;
+    background-color:rgba(255,255,255,0.5); 
+}
+
+.text{
+    margin-top: 15px;
+}
+
+.netflix-navbar3{
+    background-color: black;
+    width: 100%;
+    height: 512px;
+    color: white;
+    justify-content: center;
+    text-align: center;
+    border: 2px solid white;
+}
+
+.netflix-navbar3 a{
+    display: block;
+    font-size: 30px;
+    padding: 10px;
+}
+
+.image3{
+    background-image: url("netflix2.webp");
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 550px;
+    height: 363px;
+    margin-left: 500px;
+    border: 2px solid red;
+}
+
+.netflix-navbar4{
+    height: 511px;
+    background-color: black;
+    border: 2px solid white;
+    color: white;
+    text-align: center;
+}
+
+.image4{
+    background-image: url("netflix3.jpg");
+    width: 550px;
+    height: 363px;
+    border: 2px solid red;
+    margin-left: 500px;
+    margin-top: 30px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.netflix-navbar4 p{
+    font-size: 30px;
+    padding: 10px;
+}
+
+.netflix-navbar4 a{
+    font-size: 30px;
+    padding: 10px 10px 10px;
+}
+
+.netflix-navbar5{
+    background-color: black;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    height: 500px;
+    border: 2px solid white;
+}
+
+.image5{
+    background-image: url("netflix5.jpg");
+    width: 550px;
+    height: 363px;
+    border: 2px solid red;
+    margin-left: 500px;
+    margin-top: 30px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.netflix-navbar6{
+    background-color: black;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    height: 500px;
+    border: 2px solid white;
+}
+
+.image6{
+    background-image: url("netflix6.png");
+    width: 550px;
+    height: 363px;
+    border: 2px solid red;
+    margin-left: 500px;
+    margin-top: 30px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.netflix-navbar7{
+    height: 1100px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-size: 40px;
+    border: 2px solid white;
+}
+
+.heading11{
+    width: 981px;
+    height: 91px;
+    background-color:rgba(255,255,255,0.5) ;
+    font-size: 50px;
+    margin-top: 40px;
+
+}
+
+.heading22{
+    width: 981px;
+    height: 91px;
+    background-color:rgba(255,255,255,0.5) ;
+    font-size: 50px;
+    margin-top: 40px;
+
+}
+
+.heading33{
+    width: 981px;
+    height: 91px;
+    background-color:rgba(255,255,255,0.5) ;
+    font-size: 50px;
+    margin-top: 40px;
+
+}
+
+.heading44{
+    width: 981px;
+    height: 91px;
+    background-color:rgba(255,255,255,0.5) ;
+    font-size: 50px;
+    margin-top: 40px;
+}
+
+.heading55{
+    width: 981px;
+    height: 91px;
+    background-color:rgba(255,255,255,0.5) ;
+    font-size: 50px;
+    margin-top: 40px;
+}
+
+.heading66{
+    width: 981px;
+    height: 91px;
+    background-color:rgba(255,255,255,0.5) ;
+    font-size: 50px;
+    margin-top: 40px;
+}
+
+.text-lastone{
+    margin-top: 50px;
+}
+
+.search-input1{
+    background-color:rgba(255,255,255,0.5);
+    margin-top: 50px;
+    width: 373px;
+    height: 56px;
+    color: white;
+    border: 2px solid white;
+    font-size: 20px;
+}
+
+.GetStarted1{
+    width: 208px;
+    height: 56px;
+    color: white;
+    background-color: red;
+    font-size: 24px;
+    align-items: center;
+    margin-top: 65px;
+    margin-left: 10px;
+    margin-bottom: 15px;
+}
+
+.input-last{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.netflix-navbarlast{
+    height: 400px;
+    background-color: black;
+    color: #dddddd;
+    border: 2px solid white;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    font-size: 24px;
+}
+
+ul a{
+    display: block;
+    font-size: 15px;
+}
+
+ul p{
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+footer{
+    height: 50px;
+    border: 2px solid grey;
+    background-color: black;
+    align-items: center;
+    color: white;
+    display: flex;
+}
+
+.footer1{
+    background-image: url("netflix7.png");
+    width: 50px;
+    height: 50px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 740px;
+}
